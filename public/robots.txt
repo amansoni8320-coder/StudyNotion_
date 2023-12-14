@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /private
+Disallow: /api
+
+Sitemap: https://study-notion-lake.vercel.app/
